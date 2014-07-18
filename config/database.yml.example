@@ -1,15 +1,15 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: sql_ar
+  database: kellys_project
   pool: 5
-  username: gschool
+  username: kellypederson
   password:
 
 test:
   adapter: postgresql
   encoding: unicode
-  database: sql_ar_test
+  database: kellys_project
   pool: 5
-  username: gschool
+  username: kellypederson
   password:
